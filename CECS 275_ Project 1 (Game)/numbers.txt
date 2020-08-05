@@ -1,0 +1,8 @@
+zero
+one 
+two 
+four
+five
+six 
+nine
+ten 

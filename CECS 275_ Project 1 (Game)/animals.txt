@@ -1,0 +1,8 @@
+lion
+cat 
+dog 
+pig 
+bear
+frog
+fox 
+duck
